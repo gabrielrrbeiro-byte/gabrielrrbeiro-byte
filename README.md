@@ -15,9 +15,9 @@ aprender na prática e contribuir com código bem testado.
 
 ## 🛠️ Tecnologias
 
-**Desenvolvimento:** C# · .NET · SQL · Git/GitHub
-**Qualidade:** xUnit · testes unitários · Conventional Commits
-**TI:** Suporte · Redes · Infraestrutura
+- **Desenvolvimento:** C# · .NET · SQL · Git/GitHub
+- **Qualidade:** xUnit · testes unitários · Conventional Commits
+- **TI:** Suporte · Redes · Infraestrutura
 
 ## 📚 Aprendendo agora
 
