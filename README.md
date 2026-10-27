@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel 👋
 
-<!--
-**gabrielrrbeiro-byte/gabrielrrbeiro-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Una, com
+experiência prática em **C#/.NET**, **testes automatizados com xUnit**,
+**SQL e Git**, além de uma base em **suporte de TI e infraestrutura**.
 
-Here are some ideas to get you started:
+Estou em busca de **estágio em desenvolvimento, QA ou TI**, onde eu possa
+aprender na prática e contribuir com código bem testado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projetos em destaque
+
+- **[edutech-platform-xunit](https://github.com/gabrielrrbeiro-byte/edutech-platform-xunit)**: testes unitários com xUnit em .NET 10 para uma plataforma educacional com 3 papéis de usuário.
+- **[fintech-bank-xunit](https://github.com/gabrielrrbeiro-byte/fintech-bank-xunit)**: testes de regras de negócio de um sistema bancário, desenvolvido em equipe.
+- **[taskflow-console](https://github.com/gabrielrrbeiro-byte/taskflow-console)**: aplicação console em .NET com testes xUnit e commits no padrão Conventional Commits.
+
+## 🛠️ Tecnologias
+
+**Desenvolvimento:** C# · .NET · SQL · Git/GitHub
+**Qualidade:** xUnit · testes unitários · Conventional Commits
+**TI:** Suporte · Redes · Infraestrutura
+
+## 📚 Aprendendo agora
+
+Engenharia de requisitos, BDD, estratégias de teste e boas práticas de versionamento.
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-ribeiro-272636264)
